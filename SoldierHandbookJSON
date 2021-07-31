@@ -1666,83 +1666,83 @@
   },
   "First Aid": {
     "Cat1": [
-      "string": "blah blah blah",
-      "image": "blah"
+      "blah blah blah",
+      "blah"
     ],
     "Cat2": [
-      "string": "blah blah blah"
+      "blah blah blah"
     ]
   },
   "Navigation": {
     "Cat1": [
-      "string": "blah blah blah",
-      "image": "blah"
+      "blah blah blah",
+      "blah"
     ],
     "Cat2": [
-      "string": "blah blah blah"
+      "blah blah blah"
     ]
   },
   "Battlecraft": {
     "Cat1": [
-      "string": "blah blah blah",
-      "image": "blah"
+      "blah blah blah",
+      "blah"
     ],
     "Cat2": [
-      "string": "blah blah blah"
+      "blah blah blah"
     ]
   },
   "Tactics": {
     "Cat1": [
-      "string": "blah blah blah",
-      "image": "blah"
+      "blah blah blah",
+      "blah"
     ],
     "Cat2": [
-      "string": "blah blah blah"
+      "blah blah blah"
     ]
   },
   "Equipment": {
     "Cat1": [
-      "string": "blah blah blah",
-      "image": "blah"
+      "blah blah blah",
+      "blah"
     ],
     "Cat2": [
-      "string": "blah blah blah"
+      "blah blah blah"
     ]
   },
   "Glossary": {
     "Cat1": [
-      "string": "blah blah blah",
-      "image": "blah"
+      "blah blah blah",
+      "blah"
     ],
     "Cat2": [
-      "string": "blah blah blah"
+      "blah blah blah"
     ]
   },
   "In Memorium": {
     "Cat1": [
-      "string": "blah blah blah",
-      "image": "blah"
+      "blah blah blah",
+      "blah"
     ],
     "Cat2": [
-      "string": "blah blah blah"
+      "blah blah blah"
     ]
   },
   "Structure": {
     "Cat1": [
-      "string": "blah blah blah",
-      "image": "blah"
+      "blah blah blah",
+      "blah"
     ],
     "Cat2": [
-      "string": "blah blah blah"
+      "blah blah blah"
     ]
   },
   "Ranks": {
     "Cat1": [
-      "string": "blah blah blah",
-      "image": "blah"
+      "blah blah blah",
+      "blah"
     ],
     "Cat2": [
-      "string": "blah blah blah"
+      "blah blah blah"
     ]
   }
 }
