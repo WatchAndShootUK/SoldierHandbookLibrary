@@ -1685,11 +1685,42 @@
     ]
   },
   "Battlecraft": {
-    "Cat1": [
+    "Personal equipment": [
       "blah blah blah",
       "blah"
     ],
-    "Cat2": [
+    "Living in the field": {
+      "Cooking": [
+        "hexi",
+        "eat shit"
+      ],
+      "Shelter": [
+        "hexi",
+        "eat shit"
+      ],
+      "Survival": [
+        "hexi",
+        "eat shit"
+      ],
+      "Hygiene": [
+        "hexi",
+        "eat shit"
+      ],
+      "Maintaining equipment": [
+        "hexi",
+        "eat shit"
+      ]
+    },
+    "Awareness & observation": [
+      "blah blah blah"
+    ],
+    "Moving on foot": [
+      "blah blah blah"
+    ],
+    "Movihng in vehicles": [
+      "blah blah blah"
+    ],
+    "Target acquisition": [
       "blah blah blah"
     ]
   },
