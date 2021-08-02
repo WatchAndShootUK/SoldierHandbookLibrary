@@ -1701,7 +1701,7 @@
     "Living in the Field": {
       "Cooking": [
         "hexi",
-        "eat shit"
+        "mess tin"
       ],
       "Shelter": [
         "hexi",
@@ -1713,7 +1713,7 @@
       ],
       "Hygiene": [
         "hexi",
-        "eat shit"
+        "mess tin"
       ],
       "Maintaining equipment": [
         "hexi",
@@ -1732,12 +1732,13 @@
   },
   "Tactics": {
     "The Six Section Battle Drills": [
-      "blah blah blah",
-      "blah"
+      "PREWAR",
+      "PAWPERSO",
+      "PACESDO"
     ],
     "Offensive Operations": {
       "The Attack": [
-        "some stuff",
+        "fight",
         "about fighting",
         "dudes"
       ]
