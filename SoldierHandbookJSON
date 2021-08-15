@@ -1689,9 +1689,7 @@
     "The Lightweight Compass": [
       "blah blah blah"
     ],
-    "GMA": [
-      "blah blah blah"
-    ]
+    "GMA": "GMACalculator"
   },
   "Battlecraft": {
     "Personal Equipment": [
